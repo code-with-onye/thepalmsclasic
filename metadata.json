@@ -1,0 +1,7 @@
+{
+  "name": "The Palm Classic — Timeless Tropics",
+  "description": "A luxury boutique hotel website featuring heritage architecture and tropical relaxation with sophisticated animations and real-time weather integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
