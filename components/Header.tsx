@@ -111,7 +111,7 @@ const Header: React.FC<HeaderProps> = ({ setView, currentView }) => {
             animate={{ x: 0 }}
             exit={{ x: "100%" }}
             transition={{ type: "spring", damping: 25, stiffness: 200 }}
-            className="fixed inset-0 z-[110] bg-[#1B3022] flex"
+            className="fixed inset-0 z-[300] bg-[#1B3022] flex"
           >
             <div className="hidden lg:block w-1/2 h-full relative overflow-hidden">
               <img

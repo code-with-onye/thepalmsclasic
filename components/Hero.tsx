@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
           className="w-full h-full object-cover brightness-[0.7] grayscale-[0.2]"
         >
           <source
-            src="https://res.cloudinary.com/dxev1yx0k/video/upload/q_auto:best,e_accelerate:-50/v1767096010/WhatsApp_Video_1404-10-09_at_12.58.29_sdm7if.mp4"
+            src="https://res.cloudinary.com/dxev1yx0k/video/upload/q_auto:best,e_accelerate:-50/v1767367315/WhatsApp_Video_1404-10-09_at_12.58.29_ktc3xi.mp4"
             type="video/mp4"
           />
         </video>
